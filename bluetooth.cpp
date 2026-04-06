@@ -1,4 +1,4 @@
-#include <Arduino.h> hello
+#include <Arduino.h> 
 #include <bluefruit.h>
 
 #include "config.h"
